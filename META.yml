@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/parse-sqloutput-pm/issues
   homepage: https://github.com/ingydotnet/parse-sqloutput-pm
   repository: https://github.com/ingydotnet/parse-sqloutput-pm.git
-version: '0.07'
+version: '0.08'
